@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contactsdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contactsdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contactsgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contactsgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contactsdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contactsdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB6ABAE8-C8F0-418C-A132-3F0BB2E2CA17}|assignment6.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsDetailsPage.xaml.cs",
+              "RelativeToolTip": "ContactsDetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:32:25.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsGroup.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsGroup.cs",
+              "RelativeDocumentMoniker": "ContactsGroup.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsGroup.cs",
+              "RelativeToolTip": "ContactsGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:27:54.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\Contacts.cs",
+              "RelativeDocumentMoniker": "Contacts.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\Contacts.cs",
+              "RelativeToolTip": "Contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:25:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "ContactsPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:22:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsPage.xaml",
+              "RelativeDocumentMoniker": "ContactsPage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsPage.xaml",
+              "RelativeToolTip": "ContactsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T21:10:56.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsDetailsPage.xaml",
+              "RelativeDocumentMoniker": "ContactsDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\ContactsDetailsPage.xaml",
+              "RelativeToolTip": "ContactsDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T21:11:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:09:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T21:08:58.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment6_mobilegame\\assignment6\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T21:08:14.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
